@@ -1,2 +1,2 @@
-ci/cd pipeline using git ,jenkins (Build & Deply through jenkins) :
-ci/cd pipeline using git ,jenkins & Ansible(Build through Jenkins,Deploy through Ansible) : https://youtu.be/nE4b9mW2ym0
+ci/cd pipeline using git ,jenkins (Build & Deply through jenkins on Ec2 instance) :
+ci/cd pipeline using git ,jenkins & Ansible(Build through Jenkins,Deploy through Ansible on ) : https://youtu.be/nE4b9mW2ym0
