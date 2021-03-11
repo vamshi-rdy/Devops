@@ -1,0 +1,15 @@
+Install Nexus on Ubuntu:
+apt-get update
+apt-get install unzip
+apt install openjdk-8-jre-headless -y
+cd /opt
+wget http://www.sonatype.org/downloads/nexus-latest-bundle.zip
+chmod 777 nexus-latest-bundle.zip (#Use the correct version as per downloaded.)
+unzip nexus-latest-bundle.zip
+sudo adduser nexus
+chown -R nexus:nexus nexus-2.14.18-01/
+chown -R nexus:nexus sonatype-work/
+rm -rf nexus-latest-bundle.zip
+cd nexus-2.14.18-01/bin
+RUN_AS_USER=nexus ./nexus start
+http://IP_Address:8081/nexus/#welcome
