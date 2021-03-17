@@ -6,6 +6,8 @@ Simple DevOps Project-4 - Part-02 | How To Create a Docker Image Using Jenkins A
 Simple DevOps Project-4 - Part-03 | How To Create a Docker Image Using Jenkins And Ansible : https://www.youtube.com/watch?v=vU7K94Pt2yQ
 
 DEPLOYMENT ON EC2 USING DECLARATIVE PIPELINE :
+
+1) IF GIT CLONE IS FROM DEV BRANCH :
 pipeline {
     agent any
     stages {
@@ -14,13 +16,18 @@ pipeline {
                 git 'https://github.com/vamshi-rdy/portal-jenkins.git' or with credentials (git credentialsId: 'e66ea570-b757-472e-b8fe-c163d39617ca', url: 'https://github.com/vamshi-rdy/portal-jenkins.git')
             }
         }
-        stage("buildcode") {
+        stage('buildcode') {
            steps {
                bat "mvn clean install"
            }
-        }   
+        } 
+        stage(deploy) {
+           steps {
+              scp <source file> username@IP:<dest path>
     }
 }
+
+2)IF GIT CLONE IS FROM DEV BRANCH :
 
 pipeline {
     agent any
@@ -30,10 +37,13 @@ pipeline {
                 git branch: 'dev', url: 'https://github.com/vamshi-rdy/portal-jenkins.git' or with credentials (git branch: 'dev', credentialsId: 'e66ea570-b757-472e-b8fe-c163d39617ca', url: 'https://github.com/vamshi-rdy/portal-jenkins.git')
             }
         }
-        stage("buildcode") {
+        stage('buildcode') {
            steps {
                bat "mvn clean install"
            }
-        }   
+        }
+        stage(deploy) {
+           steps {
+              scp <source file> username@IP:<dest path>
     }
 }
