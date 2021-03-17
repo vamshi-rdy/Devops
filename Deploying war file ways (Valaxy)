@@ -9,12 +9,28 @@ DEPLOYMENT ON EC2 USING DECLARATIVE PIPELINE :
 pipeline {
     agent any
     stages {
-        stage('git') {
+        stage('git from master branch') {
             steps {
-                git 'https://github.com/vamshi-rdy/portal-jenkins.git'
+                git 'https://github.com/vamshi-rdy/portal-jenkins.git' or with credentials (git credentialsId: 'e66ea570-b757-472e-b8fe-c163d39617ca', url: 'https://github.com/vamshi-rdy/portal-jenkins.git')
             }
         }
-        stage('buildcode') {
+        stage("buildcode") {
+           steps {
+               bat "mvn clean install"
+           }
+        }   
+    }
+}
+
+pipeline {
+    agent any
+    stages {
+        stage('git from dev branch') {
+            steps {
+                git branch: 'dev', url: 'https://github.com/vamshi-rdy/portal-jenkins.git' or with credentials (git branch: 'dev', credentialsId: 'e66ea570-b757-472e-b8fe-c163d39617ca', url: 'https://github.com/vamshi-rdy/portal-jenkins.git')
+            }
+        }
+        stage("buildcode") {
            steps {
                bat "mvn clean install"
            }
