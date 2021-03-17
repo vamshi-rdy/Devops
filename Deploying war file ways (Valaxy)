@@ -4,3 +4,20 @@ Simple DevOps Project-3 | DevOps project with Git, Jenkins and Docker on AWS | C
 Simple DevOps Project-4 - Part-01 | How To Create a Docker Image Using Jenkins And Ansible : https://youtu.be/MJ74RcL6jv8
 Simple DevOps Project-4 - Part-02 | How To Create a Docker Image Using Jenkins And Ansible : https://www.youtube.com/watch?v=ZwdB1I14vEc
 Simple DevOps Project-4 - Part-03 | How To Create a Docker Image Using Jenkins And Ansible : https://www.youtube.com/watch?v=vU7K94Pt2yQ
+
+DEPLOYMENT ON EC2 USING DECLARATIVE PIPELINE :
+pipeline {
+    agent any
+    stages {
+        stage('git') {
+            steps {
+                git 'https://github.com/vamshi-rdy/portal-jenkins.git'
+            }
+        }
+        stage('buildcode') {
+           steps {
+               bat "mvn clean install"
+           }
+        }   
+    }
+}
