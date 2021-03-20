@@ -5,7 +5,7 @@ Simple DevOps Project-4 - Part-01 | How To Create a Docker Image Using Jenkins A
 Simple DevOps Project-4 - Part-02 | How To Create a Docker Image Using Jenkins And Ansible : https://www.youtube.com/watch?v=ZwdB1I14vEc
 Simple DevOps Project-4 - Part-03 | How To Create a Docker Image Using Jenkins And Ansible : https://www.youtube.com/watch?v=vU7K94Pt2yQ
 
-DEPLOYMENT ON EC2 USING DECLARATIVE PIPELINE :
+DEPLOYMENT ON EC2 USING DECLARATIVE PIPELINE (Linux) :
 
 1) IF GIT CLONE IS FROM DEV BRANCH :
 pipeline {
@@ -27,7 +27,7 @@ pipeline {
     }
 }
 
-2)IF GIT CLONE IS FROM DEV BRANCH :
+2)IF GIT CLONE IS FROM DEV BRANCH (Linux) :
 
 pipeline {
     agent any
