@@ -23,7 +23,7 @@ pipeline {
         } 
         stage(deploy) {
            steps {
-              scp <source file> username@IP:<dest path>
+             sh "scp <source file> username@IP:<dest path>"
     }
 }
 
@@ -44,6 +44,6 @@ pipeline {
         }
         stage(deploy) {
            steps {
-              scp <source file> username@IP:<dest path>
+             sh "scp <source file> username@IP:<dest path>"
     }
 }
