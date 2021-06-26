@@ -2,4 +2,9 @@ Recover or Change Lost Key Pair of AWS EC2 Linux Instance - https://youtu.be/5bt
 Associate Multiple Security Groups per EC2 Instance - https://youtu.be/GlPTgGZR-j8 
 How To Add Additional Elastic Network Interface ( ENI ) To EC2 (running) Instances? - https://youtu.be/Uh8TO9Gq34k
 EC2 Automatic Recovery | Recovering EC2 Instances and EBS from failures - 
- 
+How To Change Security Group In A Running EC2 Instance - https://youtu.be/f_VX4bdQh1w
+What is AWS EC2 Placement Groups? How to setup a Low-Latency High Bandwidth Network for EC2 - https://youtu.be/9QHvC_yeUjE
+Setup EC2 Auto Scaling | Test Scaling Policies | Health Checks | Schedule new policy - https://youtu.be/wDvKkkIdEsw
+Create EC2 instance using Ansible - Part 1 - https://youtu.be/gEX1HbM4KSM
+Setup an AWS Elastic Load Balancer and connect with Auto Scaling and test it - https://youtu.be/xmCYLN7PKJU
+
