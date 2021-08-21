@@ -15,5 +15,6 @@ Jenkins, Mark build as failed, if SonarQube quality checks not met : https://you
 Jenkins pipeline Integration with email | Jenkins Pipeline Tutorial | Jenkins Pipeline email : https://youtu.be/CXdfVJxK1OQ
 DevOps | CI/CD | Jenkins Pipeline Discard Old Builds | Jenkins Declarative Pipeline Tutorial : https://youtu.be/RSPaXUwABko
 Jenkins Pipeline Parallel executions : https://youtu.be/-YkMHwRnKgI
- Jenkins : How to execute the same job in parallel : Tutorial 11 __  https://youtu.be/f0U_u2f_hQk
+Jenkins : How to execute the same job in parallel : Tutorial 11 __  https://youtu.be/f0U_u2f_hQk
+How to configure Jenkins Stages Parallel vs Sequential : https://youtu.be/k4O59riA4HU
  
