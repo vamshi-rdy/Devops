@@ -1,2 +1,4 @@
 Ansible Tutorial Part 6 - Ansible Roles Explained with Examples - Create Your Ansible Roles - https://youtu.be/KgoDnSGvJJg
-
+https://www.redhat.com/sysadmin/playing-ansible-facts#:~:text=Ansible%20facts%20are%20data%20gathered,is%20managed%20by%20Ansible%20Engine.
+https://www.devopsschool.com/blog/how-can-i-pass-variable-to-ansible-playbook-in-the-command-line/#:~:text=It%20is%20possible%20to%20set,one%20of%20the%20formats%20below.&text=If%20you%20are%20passing%20variables,vars%20flag%20to%20pass%20variables.
+https://kerneltalks.com/tools/how-to-define-ansible-default-user/
