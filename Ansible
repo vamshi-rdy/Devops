@@ -3,4 +3,5 @@ https://www.redhat.com/sysadmin/playing-ansible-facts#:~:text=Ansible%20facts%20
 https://www.devopsschool.com/blog/how-can-i-pass-variable-to-ansible-playbook-in-the-command-line/#:~:text=It%20is%20possible%20to%20set,one%20of%20the%20formats%20below.&text=If%20you%20are%20passing%20variables,vars%20flag%20to%20pass%20variables.
 https://kerneltalks.com/tools/how-to-define-ansible-default-user/
 Ansible Roles in Telugu part (5/5) | Ansible Tutorial | DevOps Tutorial for beginners --  https://youtu.be/8USU6Q_tyP4
- 
+ Ansible tags - How to run particular task in given ansible playbook -- https://youtu.be/pNigFzYeZjw
+
