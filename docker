@@ -6,5 +6,10 @@ Day-27 | Docker Volumes and Bind Mounts|Persistent Storage for Docker| #devopstu
 Day-26 | Multi Stage Docker Builds | Reduce Image Size by 800 % | Distroless Container Images | - https://www.youtube.com/watch?v=yyJrZgoNal0&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC&index=4
 Day-29 | Docker Interview Questions with Answers | How many can you answer ? | Comment your score - https://www.youtube.com/watch?v=I6ZBUEc4LrU&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC&index=7
 Master the Art of Writing Dockerfiles - https://www.youtube.com/watch?v=yd7yfzT35sM
+Deploying multi container to Fargate Cluster | AWS ECS Fargate | DevOps Training - 9886611117 - https://www.youtube.com/watch?v=RQmGQgwp_ns
+How to SSH into the AWS ECS Fargate containers | Login to Fargate containers | Full Demo - https://www.youtube.com/watch?v=wNN5N1_ZTN4
+Persist Data to Amazon EBS Volumes from AWS Fargate - https://www.youtube.com/watch?v=6xijFSsGdYQ
+AWS CodePipeline with ECS | Deploy Springboot app on ECS | ECS Fargate - https://www.youtube.com/watch?v=ARGmrYFfv44
+
 
 
