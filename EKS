@@ -12,3 +12,6 @@ Onboard your applications to Kubernetes from VMs (Designing Kubernetes Implement
 Certified Kubernetes Administrator Full course - https://www.youtube.com/playlist?list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC
 Troubleshooting Kubernetes - https://www.youtube.com/playlist?list=PLdpzxOOAlwvIrFBI1farpLS_OSUBXJMLX
 Day-30 | KUBERNETES IS EASY | INTRODUCTION TO KUBERNETES| #k8s #devopscourse #kubernetes #devops - https://www.youtube.com/watch?v=dfxrdoEQe00&list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
+Create Amazon EKS cluster by eksctl | How to create EKS cluster in AWS cloud using eksctl | Create EKS Cluster in command line using IAM Role - https://www.coachdevops.com/2022/02/create-amazon-eks-cluster-by-eksctl-how.html
+Create Amazon EKS cluster by Terraform | How to create Amazon EKS cluster in AWS cloud using Terraform | Create EKS Cluster using Terraform - https://www.coachdevops.com/2022/08/create-amazon-eks-cluster-by-terraform.html
+Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline and Kubectl CLI Plug-in | Containerize Springboot App and Deploy into EKS Cluster using Jenkins Pipeline - https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
