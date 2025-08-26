@@ -17,4 +17,5 @@ Create Amazon EKS cluster by Terraform | How to create Amazon EKS cluster in AWS
 Install kubectl on Ubuntu Instance | How to install kubectl in Ubuntu | Install kubectl on Linux Instance - https://www.coachdevops.com/2022/05/install-kubectl-on-ubuntu-instance-how.html
 Install kubectl on Ubuntu Instance | How to install kubectl in Ubuntu - https://www.coachdevops.com/2020/10/install-kubectl-on-ubuntu-instance-how.html
 Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline and Kubectl CLI Plug-in | Containerize Springboot App and Deploy into EKS Cluster using Jenkins Pipeline - https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
-
+Set up kubectl and eksctl - https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html#linux_amd64_kubectl
+https://drive.google.com/file/d/1kVj-tpz2qmRwcsXmkn3Soe5LsMhwBfyl/view - https://drive.google.com/file/d/1kVj-tpz2qmRwcsXmkn3Soe5LsMhwBfyl/view
