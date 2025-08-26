@@ -28,3 +28,10 @@ How to create docker as jenkins agent (dynamic agent) #jenkins #dynamic #agent :
 Run Jenkins Pipeline With AWS ECS Fargate & AWS EC2 Based ECS Cluster | Learn DevOps Tools Ep4 - https://www.youtube.com/watch?v=K2CBHLwPL50&t=50s
 Build Docker Image Using Jenkins Pipeline & Push to AWS ECR | Learn DevOps Tools Ep2 - https://www.youtube.com/watch?v=lOdrdV0eDrs
 Complete Real-time DevOps CI/CD Project | Jenkins Shared Lib | DevSecOps | Advanced Pro | HandsOn - https://www.youtube.com/watch?v=g-v9AsubOqY&list=PLLu1bCv5AByHFz0yycjbp_I5G9NTGF2Cw
+
+# jenkins integration with eks # :
+   a) Install kubectl on Ubuntu Instance | How to install kubectl in Ubuntu | Install kubectl on Linux Instance - https://www.coachdevops.com/2022/05/install-kubectl-on-ubuntu-instance-how.html
+   b) Install kubectl on Ubuntu Instance | How to install kubectl in Ubuntu - https://www.coachdevops.com/2020/10/install-kubectl-on-ubuntu-instance-how.html
+   c) Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline and Kubectl CLI Plug-in | Containerize Springboot App and Deploy into EKS Cluster using Jenkins Pipeline - https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
+   d) Set up kubectl and eksctl - https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html#linux_amd64_kubectl
+   e) https://drive.google.com/file/d/1kVj-tpz2qmRwcsXmkn3Soe5LsMhwBfyl/view - https://drive.google.com/file/d/1kVj-tpz2qmRwcsXmkn3Soe5LsMhwBfyl/view
