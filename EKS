@@ -36,3 +36,12 @@ Set up kubectl and eksctl - https://docs.aws.amazon.com/eks/latest/userguide/ins
 https://drive.google.com/file/d/1kVj-tpz2qmRwcsXmkn3Soe5LsMhwBfyl/view - https://drive.google.com/file/d/1kVj-tpz2qmRwcsXmkn3Soe5LsMhwBfyl/view
 kubectl installation (official doc) - https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 eksctl & kubectl installation (official doc) - https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
+
+End-to-End Ci/CD setup using jenkins to deploy microservices on AWS EKS Cluster :
+ a) https://www.coachdevops.com/2022/02/create-amazon-eks-cluster-by-eksctl-how.html
+ b) https://www.coachdevops.com/2020/04/install-jenkins-ubuntu-1804-setup.html
+ c) https://www.coachdevops.com/2019/05/install-docker-ubuntu-how-to-install.html
+ d) https://www.coachdevops.com/2020/05/docker-jenkins-integration-building.html
+ e) https://www.cidevops.com/2020/07/automate-docker-builds-using-jenkins.html
+ f) https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
+ g) https://www.cidevops.com/2017/01/what-is-microservices-all-about-best.html
