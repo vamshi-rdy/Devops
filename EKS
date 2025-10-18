@@ -38,6 +38,7 @@ kubectl installation (official doc) - https://kubernetes.io/docs/tasks/tools/ins
 eksctl & kubectl installation (official doc) - https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
 
 End-to-End Ci/CD setup using jenkins to deploy microservices on AWS EKS Cluster :
+1) Cloudamy: 
  a) https://www.coachdevops.com/2022/02/create-amazon-eks-cluster-by-eksctl-how.html
  b) https://www.coachdevops.com/2020/04/install-jenkins-ubuntu-1804-setup.html
  c) https://www.coachdevops.com/2019/05/install-docker-ubuntu-how-to-install.html
