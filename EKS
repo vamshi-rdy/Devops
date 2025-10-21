@@ -50,4 +50,5 @@ End-to-End Ci/CD setup using jenkins to deploy microservices on AWS EKS Cluster 
 
 EKS Clutser creation using Terraform :
 Create EKS Cluster with VPC using Terraform | Real Time Terraform Modules Implementation (abhishekveeramalla) - https://www.youtube.com/watch?v=_BTpd2oYafM
+github repo (ishubhoshaha ) - https://github.com/ishubhoshaha/eks-cluster
 
