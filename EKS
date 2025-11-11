@@ -13,7 +13,7 @@ Troubleshooting Kubernetes - https://www.youtube.com/playlist?list=PLdpzxOOAlwvI
 Day-30 | KUBERNETES IS EASY | INTRODUCTION TO KUBERNETES| #k8s #devopscourse #kubernetes #devops - https://www.youtube.com/watch?v=dfxrdoEQe00&list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
 Create Amazon EKS cluster by eksctl | How to create EKS cluster in AWS cloud using eksctl | Create EKS Cluster in command line using IAM Role - https://www.coachdevops.com/2022/02/create-amazon-eks-cluster-by-eksctl-how.html
 Create Amazon EKS cluster by Terraform | How to create Amazon EKS cluster in AWS cloud using Terraform | Create EKS Cluster using Terraform - https://www.coachdevops.com/2022/08/create-amazon-eks-cluster-by-terraform.html
-
+DAY-41 | KUBERNETES LIVE PROJECT | CONFIGMAPS & SECRETS | HOW TO USE CONFIGMAPS & SECRETS INSIDE POD - https://www.youtube.com/watch?v=f-DqMTxs5z8
 
 Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline and Kubectl CLI Plug-in | Containerize Springboot App and Deploy into EKS Cluster using Jenkins Pipeline (documentation) - https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
 11 Microservice CICD Pipeline DevOps Project | Ultimate DevOps Pipeline - https://www.youtube.com/watch?v=SO3XIJCtmNs
