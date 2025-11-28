@@ -1,3 +1,4 @@
+## Nexus Installation on Ubuntu 18.txt Techmarshal ##
 Install Nexus on Ubuntu:
 apt-get update
 apt-get install unzip
@@ -13,3 +14,5 @@ rm -rf nexus-latest-bundle.zip
 cd nexus-2.14.18-01/bin
 RUN_AS_USER=nexus ./nexus start
 http://IP_Address:8081/nexus/#welcome
+
+UPLOAD ARTIFACTS INTO NEXUS REPOSITORY | Jenkins Nexus Integration | PipeLine Script - https://www.youtube.com/watch?v=fpDuMLHExL4
