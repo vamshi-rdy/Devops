@@ -55,6 +55,10 @@ End-to-End Ci/CD setup using jenkins to deploy microservices on AWS EKS Cluster 
  e) https://www.cidevops.com/2020/07/automate-docker-builds-using-jenkins.html
  f) https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
  g) https://www.cidevops.com/2017/01/what-is-microservices-all-about-best.html
+ 
+ h) How to set up AWS Kubernetes Jenkins pipeline? - Part 13 (Rahul Wagh) : https://www.youtube.com/watch?v=ENNBdmNn4r0
+ i) AWS Kubernetes Jenkins Pipeline  (Rahul Wagh) - https://jhooq.com/aws-kubernetes-jenkins-pipeline/
+ 
 
 
 EKS Clutser creation using Terraform :
