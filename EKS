@@ -18,6 +18,8 @@ Kubernetes Probes- livenessProbe, readinessProbe, startupProbe |How to use kuber
 Day 18/40 - Kubernetes Health Probes Explained | Liveness vs Readiness Probes (Tech Tutorials with Piyush) - https://www.youtube.com/watch?v=x2e6pIBLKzw
 Day 19/40 - kubernetes configmap and secret - CKA Full Course 2024 (Tech Tutorials with Piyush) - https://www.youtube.com/watch?v=Q9fHJLSyd7Q
 How to use Persistent Volume and Persistent Claims | Kubernetes - Part 9 - https://www.youtube.com/watch?v=1FTJQOvAGOY
+Kubernetes Secrets Management with ESO | Kubernetes Tutorial | KodeKloud - https://www.youtube.com/watch?v=EonWeoFPpvM
+EKS + AWS Secrets Manager Tutorial (Env & Files): AWS EKS Kubernetes Tutorial - Part 10 : https://www.youtube.com/watch?v=ppJZ4m4t0bI&t=16s
 
 
 
