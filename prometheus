@@ -1,6 +1,6 @@
 Kubernetes Monitoring Using AWS Managed Prometheus and Grafana on AWS EKS (Cloud Quick Labs - amazon managed prometheus & grafana setup )- https://www.youtube.com/watch?v=2qGDV0N14aY
 Kubernetes Performance Monitoring using Amazon CloudWatch Container Insights for AWS EKS. (Cloud Quick Labs) - https://www.youtube.com/watch?v=-8kFawk-EFs
-Getting started with Prometheus Grafana and Node exporter - Part 1 : https://www.youtube.com/watch?v=peH95b16hNI
+Getting started with Prometheus Grafana and Node exporter - Part 1 (Rahul Wagh) : https://www.youtube.com/watch?v=peH95b16hNI
 Prometheus Grafana dashboard for Kubernetes monitoring - Part 2 : https://www.youtube.com/watch?v=3Xs49Urq16M
 How to setup Prometheus, Grafana dashboard for Kubernetes monitoring on AWS - https://jhooq.com/prometheous-k8s-aws-setup/
 How to setup Prometheus, Node Exporter and Grafana - https://jhooq.com/prometheous-grafan-setup/
