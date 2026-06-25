@@ -26,6 +26,7 @@ How to upgrade Kubernetes cluster in Prod ? | Complete Process with Demo and Int
 S7: How to configure autoscaling in Kubernetes cluster | HorizontalPodAutoscaler (HPA) : https://youtu.be/rfLB1Kruaaw?si=ObYyPjKaYLt6eUPZ
 Kubernetes Scheduling | Taints, Tolerations, Node Affinity & Pod Anti-Affinity (Hands-On Demo) (TechOps Tutorials): https://www.youtube.com/watch?v=vSJ2Q2gE6X8&t=308s
 Pod Disruption Budget in Kubernetes: What You Need to Know | AKS tutorials : https://www.youtube.com/watch?v=QTP5aFEiKoc
+Pod Disruption Budget Explained with Real Kubernetes Scenario | PDB Practical (Q7) : https://www.youtube.com/watch?v=vj82l56T1bw
 
 
 
