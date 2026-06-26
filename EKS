@@ -28,6 +28,9 @@ Kubernetes Scheduling | Taints, Tolerations, Node Affinity & Pod Anti-Affinity (
 Pod Disruption Budget in Kubernetes: What You Need to Know | AKS tutorials : https://www.youtube.com/watch?v=QTP5aFEiKoc
 Pod Disruption Budget Explained with Real Kubernetes Scenario | PDB Practical (Q7) : https://www.youtube.com/watch?v=vj82l56T1bw
 
+Cluster Upgrade:
+1. Upgrade Amazon EKS Cluster Without Downtime | Full Guide 🔥- https://www.youtube.com/watch?v=_AI8KAZEBQU
+2. Section 20 | How to Upgrade Amazon EKS Cluster Step-by-Step (Zero Downtime Guide) |#k8s2 - https://www.youtube.com/watch?v=3DCjKZxT1xE
 
 
 Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline and Kubectl CLI Plug-in | Containerize Springboot App and Deploy into EKS Cluster using Jenkins Pipeline (documentation) - https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
