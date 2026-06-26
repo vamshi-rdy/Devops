@@ -13,24 +13,26 @@ Troubleshooting Kubernetes - https://www.youtube.com/playlist?list=PLdpzxOOAlwvI
 Day-30 | KUBERNETES IS EASY | INTRODUCTION TO KUBERNETES| #k8s #devopscourse #kubernetes #devops - https://www.youtube.com/watch?v=dfxrdoEQe00&list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
 Create Amazon EKS cluster by eksctl | How to create EKS cluster in AWS cloud using eksctl | Create EKS Cluster in command line using IAM Role - https://www.coachdevops.com/2022/02/create-amazon-eks-cluster-by-eksctl-how.html
 Create Amazon EKS cluster by Terraform | How to create Amazon EKS cluster in AWS cloud using Terraform | Create EKS Cluster using Terraform - https://www.coachdevops.com/2022/08/create-amazon-eks-cluster-by-terraform.html
-DAY-41 | KUBERNETES LIVE PROJECT | CONFIGMAPS & SECRETS | HOW TO USE CONFIGMAPS & SECRETS INSIDE POD - https://www.youtube.com/watch?v=f-DqMTxs5z8
 Kubernetes Probes- livenessProbe, readinessProbe, startupProbe |How to use kubernetes probes-part 14 - https://www.youtube.com/watch?v=aTlQBofihJQ
 Day 18/40 - Kubernetes Health Probes Explained | Liveness vs Readiness Probes (Tech Tutorials with Piyush) - https://www.youtube.com/watch?v=x2e6pIBLKzw
+DAY-41 | KUBERNETES LIVE PROJECT | CONFIGMAPS & SECRETS | HOW TO USE CONFIGMAPS & SECRETS INSIDE POD - https://www.youtube.com/watch?v=f-DqMTxs5z8
 Day 19/40 - kubernetes configmap and secret - CKA Full Course 2024 (Tech Tutorials with Piyush) - https://www.youtube.com/watch?v=Q9fHJLSyd7Q
-How to use Persistent Volume and Persistent Claims | Kubernetes - Part 9 - https://www.youtube.com/watch?v=1FTJQOvAGOY
 Kubernetes Secrets Management with ESO | Kubernetes Tutorial | KodeKloud - https://www.youtube.com/watch?v=EonWeoFPpvM
 EKS + AWS Secrets Manager Tutorial (Env & Files): AWS EKS Kubernetes Tutorial - Part 10 : https://www.youtube.com/watch?v=ppJZ4m4t0bI&t=16s
+How to use Persistent Volume and Persistent Claims | Kubernetes - Part 9 - https://www.youtube.com/watch?v=1FTJQOvAGOY
 Day-3 | Node Selector, Node Affinity, Taints and Tolerations | Kubernetes Zero to Hero (Abhishek Veermalla) : https://youtu.be/O61HDmGUBJM?si=PQQxD9h0GSdnU_6U
-How to add Labels to Kubernetes Nodes and Configure? : https://youtu.be/NftOrYbZUxI?si=G_kQJfutdYiNXtca
-How to upgrade Kubernetes cluster in Prod ? | Complete Process with Demo and Interview Questions : https://youtu.be/Cfznp8jRh7I?si=JXuYCwWAd0Nspx9L
-S7: How to configure autoscaling in Kubernetes cluster | HorizontalPodAutoscaler (HPA) : https://youtu.be/rfLB1Kruaaw?si=ObYyPjKaYLt6eUPZ
 Kubernetes Scheduling | Taints, Tolerations, Node Affinity & Pod Anti-Affinity (Hands-On Demo) (TechOps Tutorials): https://www.youtube.com/watch?v=vSJ2Q2gE6X8&t=308s
-Pod Disruption Budget in Kubernetes: What You Need to Know | AKS tutorials : https://www.youtube.com/watch?v=QTP5aFEiKoc
-Pod Disruption Budget Explained with Real Kubernetes Scenario | PDB Practical (Q7) : https://www.youtube.com/watch?v=vj82l56T1bw
+How to add Labels to Kubernetes Nodes and Configure? : https://youtu.be/NftOrYbZUxI?si=G_kQJfutdYiNXtca
+S7: How to configure autoscaling in Kubernetes cluster | HorizontalPodAutoscaler (HPA) : https://youtu.be/rfLB1Kruaaw?si=ObYyPjKaYLt6eUPZ
+
+Pod Disruption Budget:
+1.Pod Disruption Budget in Kubernetes: What You Need to Know | AKS tutorials : https://www.youtube.com/watch?v=QTP5aFEiKoc
+2.Pod Disruption Budget Explained with Real Kubernetes Scenario | PDB Practical (Q7) : https://www.youtube.com/watch?v=vj82l56T1bw
 
 Cluster Upgrade:
 1. Upgrade Amazon EKS Cluster Without Downtime | Full Guide 🔥- https://www.youtube.com/watch?v=_AI8KAZEBQU
 2. Section 20 | How to Upgrade Amazon EKS Cluster Step-by-Step (Zero Downtime Guide) |#k8s2 - https://www.youtube.com/watch?v=3DCjKZxT1xE
+3. How to upgrade Kubernetes cluster in Prod ? | Complete Process with Demo and Interview Questions : https://youtu.be/Cfznp8jRh7I?si=JXuYCwWAd0Nspx9L
 
 
 Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline and Kubectl CLI Plug-in | Containerize Springboot App and Deploy into EKS Cluster using Jenkins Pipeline (documentation) - https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
