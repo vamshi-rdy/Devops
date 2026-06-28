@@ -29,6 +29,10 @@ Pod Disruption Budget:
 1.Pod Disruption Budget in Kubernetes: What You Need to Know | AKS tutorials : https://www.youtube.com/watch?v=QTP5aFEiKoc
 2.Pod Disruption Budget Explained with Real Kubernetes Scenario | PDB Practical (Q7) : https://www.youtube.com/watch?v=vj82l56T1bw
 
+HPA:
+Horizontal Pod Autoscaler based on CPU usage | HPA | AWS | EKS | Kubernetes - https://www.youtube.com/watch?v=FnGDYTUBwWE
+
+
 Cluster Upgrade:
 1. Upgrade Amazon EKS Cluster Without Downtime | Full Guide 🔥- https://www.youtube.com/watch?v=_AI8KAZEBQU
 2. Section 20 | How to Upgrade Amazon EKS Cluster Step-by-Step (Zero Downtime Guide) |#k8s2 - https://www.youtube.com/watch?v=3DCjKZxT1xE
