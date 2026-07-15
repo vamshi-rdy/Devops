@@ -38,6 +38,10 @@ Cluster Upgrade:
 2. Section 20 | How to Upgrade Amazon EKS Cluster Step-by-Step (Zero Downtime Guide) |#k8s2 - https://www.youtube.com/watch?v=3DCjKZxT1xE
 3. How to upgrade Kubernetes cluster in Prod ? | Complete Process with Demo and Interview Questions : https://youtu.be/Cfznp8jRh7I?si=JXuYCwWAd0Nspx9L
 
+Logs:
+1.Kubernetes Logs forwarding Using Fluentd to AWS CloudWatch Log groups On AWS EKS Cluster (Cloud Quick Labs) : https://www.youtube.com/watch?v=DPCS8jBqmQk
+
+
 
 Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline and Kubectl CLI Plug-in | Containerize Springboot App and Deploy into EKS Cluster using Jenkins Pipeline (documentation) - https://www.coachdevops.com/2022/01/deploy-springboot-microservices-app_11.html
 11 Microservice CICD Pipeline DevOps Project | Ultimate DevOps Pipeline - https://www.youtube.com/watch?v=SO3XIJCtmNs
